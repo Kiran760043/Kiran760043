@@ -38,6 +38,7 @@ FPGAs are compared to _LEGO_ blocks where you can build a complex structure usin
 <br />
 <br />
 
+![](https://komarev.com/ghpvc/?username=Kiran760043&label=PROFILE+VIEWS)
 <!--![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Kiran760043) -->
 
 
