@@ -25,7 +25,7 @@ My research focus is on wideband digital receivers for radar applications.
 
 FPGAs are mostly compared to _LEGO_ blocks where you can build a complex structure using small basic blocks. In my GitHub repositories I present to you some of these basic  build blocks ( in verilog/system verilog) that can be used as a foundation for building big and complex designs.
 
-<center>✨ `Share Knowledge, Spread Love.` ✨</center>
+✨ `Share Knowledge, Spread Love.` ✨
 
 
 ## Connect With me:
