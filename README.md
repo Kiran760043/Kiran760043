@@ -2,7 +2,7 @@
 
 ### I'm Kiran.
 
-![FPGA](fpga.jpg)
+![FPGA](fpga.png)
 
 I work as Graduate Research Assistant at Wright State University currently pursuing my Doctoral degree.
 
