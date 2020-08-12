@@ -3,7 +3,8 @@
 ### I'm Kiran.
 
 <!--![FPGA](fpga.png)-->
-<img src="fpga.png">
+<!--<img src="fpga.png">-->
+![fpga](https://user-images.githubusercontent.com/34355273/89976131-a2260700-dc35-11ea-8b5d-8a62fd78734a.png)
 
 I work as Graduate Research Assistant at Wright State University currently pursuing my Doctoral degree.
 
