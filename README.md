@@ -20,7 +20,7 @@ About Me:
 - ⚡ Fun fact: I love photography :camera_flash:.
 - :goal_net: 2020 Goals: Survive the pandamic	:mask:.
 
-✨ `Share Knowledge, Spread Love to make a world a better place.` ✨
+<div align=”center”> ✨ `Share Knowledge, Spread Love to make a world a better place.` ✨</div>
 
 ### Connect With me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
