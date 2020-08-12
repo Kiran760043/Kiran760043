@@ -6,6 +6,8 @@
 
 ![fpga](https://user-images.githubusercontent.com/34355273/89976131-a2260700-dc35-11ea-8b5d-8a62fd78734a.png)
 
+## About Me:
+
 I work as Graduate Research Assistant at Wright State University currently pursuing my Doctoral degree.
 
 My background includes Digital Design, RTL design, FPGA prototyping, Circuit design, and I have worked as a graduate teaching assistant while pursuing a Master’s Degree in Electrical Engineering.
@@ -13,8 +15,6 @@ My background includes Digital Design, RTL design, FPGA prototyping, Circuit des
 As a teaching assistant I Instructed students in modeling digital systems using VHSIC hardware descriptive language. Implemented and tested the designs on FPGAs. Evaluated the student's performance based on quizzes and graded them accordingly for Digital Integrated Circuit Design Lab (EE 4620L/EE 6620L).
 
 My research focus is on wideband digital receivers for radar applications.
-
-## About Me:
 
 - 🔭 I’m currently working on completing my Ph.D :persevere: :sweat:.
 - 🌱 I’m currently learning new technology in the field of digital design.
