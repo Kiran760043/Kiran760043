@@ -10,7 +10,7 @@ My background includes Digital Design, RTL design, FPGA prototyping, Circuit des
 
 As a teaching assistant I Instructed students in modeling digital systems using VHSIC hardware descriptive language. Implemented and tested the designs on FPGAs. Evaluated the student's performance based on quizzes and graded them accordingly for Digital Integrated Circuit Design Lab (EE 4620L/EE 6620L).
 
-
+My research focus is on wideband digital receivers for radar applications.
 
 ## About Me:
 
@@ -37,7 +37,7 @@ FPGAs are mostly compared to _LEGO_ blocks where you can build a complex structu
 <br />
 <br />
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Kiran760043)
+<!--![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Kiran760043) -->
 
 
 [website]: https://kiranj.com/
