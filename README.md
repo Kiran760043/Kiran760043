@@ -10,7 +10,7 @@ As a teaching assistant I Instructed students in modeling digital systems using 
 
 
 
-About Me:
+## About Me:
 
 - 🔭 I’m currently working on completing my Ph.D :persevere: :sweat:.
 - 🌱 I’m currently learning new technology in the field of digital design.
@@ -26,7 +26,7 @@ FPGAs are mostly compared to _LEGO_ blocks where you can build a complex structu
 <center>✨ `Share Knowledge, Spread Love.` ✨</center>
 
 
-### Connect With me:
+## Connect With me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
