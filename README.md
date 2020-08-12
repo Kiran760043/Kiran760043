@@ -1,4 +1,6 @@
-### Hi there 👋. I'm Kiran.
+# Hi there 👋.
+
+### I'm Kiran.
 
 ![github-small](fpga.jpg)
 
