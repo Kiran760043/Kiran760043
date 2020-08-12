@@ -10,16 +10,15 @@ As a **GTA** I've Instructed students in modeling digital systems using VHSIC ha
 
 
 
-Here are some ideas to get you started:
+About Me:
 
 - 🔭 I’m currently working on completing my Ph.D :persevere: :sweat:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning new technology in the field of digital design.
+- 👯 I’m looking to collaborate with FPGA enthusiasts. :handshake:
+- 💬 Ask me about FPGAs.
 - 😄 Pronouns: Key-ran :rofl:
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love photography :camera_flash:
+- :goal_net: 2020 Goals: Survive the pandamic	:mask:
 
 ✨ `Share Knowledge, Spread Love to make a world a better place.` ✨
 
