@@ -20,7 +20,7 @@ My research focus is on wideband digital receivers for radar applications.
 - 🌱 I’m currently learning new technology in the field of digital design.
 - 👯 I’m looking to collaborate with other FPGA enthusiasts :handshake:.
 - 💬 Ask me about FPGAs.
-- 😄 Pronouns: Key-ran :rofl:.
+<!-- - 😄 Pronouns: -->
 - ⚡ Fun fact: I love photography :camera_flash:.
 - :goal_net: 2020 Goals: Survive the pandamic	:mask:.
 
