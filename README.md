@@ -24,9 +24,16 @@ About Me:
 
 ### Connect With me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+<br />
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Kiran760043)
 
 
 [website]: https://kiranj.com/
+[linkedin]: https://www.linkedin.com/in/kiran760043/
+[instagram]: https://www.instagram.com/kireative_/
+[twitter]: https://twitter.com/kiran760043
