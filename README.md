@@ -4,9 +4,9 @@
 
 ![github-small](fpga.jpg)
 
-I work as Graduate Research Assistant and at Wright State University while I pursue my Doctoral degree .
+I work as Graduate Research Assistant at Wright State University currently pursuing my Doctoral degree.
 
-My background includes Digital Design, RTL design, FPGA prototyping, Circuit design, and I have worked as a graduate teaching assistant while pursuing a Master’s Degree in Electrical Engineering at Wright State University, OH.
+My background includes Digital Design, RTL design, FPGA prototyping, Circuit design, and I have worked as a graduate teaching assistant while pursuing a Master’s Degree in Electrical Engineering.
 
 As a teaching assistant I Instructed students in modeling digital systems using VHSIC hardware descriptive language. Implemented and tested the designs on FPGAs. Evaluated the student's performance based on quizzes and graded them accordingly for Digital Integrated Circuit Design Lab (EE 4620L/EE 6620L).
 
