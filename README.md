@@ -20,14 +20,10 @@ About Me:
 - ⚡ Fun fact: I love photography :camera_flash:.
 - :goal_net: 2020 Goals: Survive the pandamic	:mask:.
 
+
+FPGAs are mostly compared to _LEGO_ blocks where you can build a complex structure using small basic blocks. In my GitHub repositories I present to you some of these basic  build blocks ( in verilog/system verilog) that can be used as a foundation for building big and complex designs.
+
 <center>✨ `Share Knowledge, Spread Love to make a world a better place.` ✨</center>
-
-
-<br />
-<br />
-<center> hi</center>
-<br />
-<br />
 
 
 ### Connect With me:
