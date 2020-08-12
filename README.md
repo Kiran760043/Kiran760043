@@ -23,6 +23,10 @@ About Me:
 ✨ `Share Knowledge, Spread Love to make a world a better place.` ✨
 
 ### Connect With me:
-[website]: https://kiranj.com/
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Kiran760043)
+
+
+[website]: https://kiranj.com/
