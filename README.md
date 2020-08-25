@@ -16,7 +16,7 @@ As a teaching assistant I Instructed students in modeling digital systems using 
 
 My research focus is on wideband digital receivers for radar applications.
 
-- 🔭 I’m currently working on completing my Ph.D :persevere: :sweat:.
+- 🔭 I’m currently working on my Ph.D :persevere: :sweat: :satisfied:.
 - 🌱 I’m currently learning new technology in the field of digital design.
 - 👯 I’m looking to collaborate with other FPGA enthusiasts :handshake:.
 - 💬 Ask me about FPGAs.
