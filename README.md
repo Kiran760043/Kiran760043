@@ -21,7 +21,7 @@ My research focus is on wideband digital receivers for radar applications.
 - 👯 I’m looking to collaborate with other FPGA enthusiasts :handshake:.
 - 💬 Ask me about FPGAs.
 - ⚡ Fun fact: I love photography :camera_flash:.
-- :goal_net: 2021 Goals: Survive the pandamic	:mask:.
+<!-- - :goal_net: 2021 Goals: Survive the pandamic	:mask:. -->
 
 
 FPGAs are compared to _LEGO_ blocks where you can build a complex structure using small basic blocks. In my GitHub repositories I present to you some of these basic building blocks (basic designs in verilog/system verilog) that can be used as a foundation for building large and complex systems.
